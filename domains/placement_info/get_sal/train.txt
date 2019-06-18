@@ -1,0 +1,17 @@
+How much salary {google|company} give
+How much salary did {google|company} give
+{wipro|company} gives
+How much salary did {wipro|company} give lasttime
+How much salary {google|company} give
+How much salary did {google|company} give
+{google|company} gives
+How much salary did {wipro|company} give lasttime
+How much salary {deshaw|company} give
+How much salary did {google|company} give
+{wipro|company} gives
+How much salary did {jpmorgan|company} give lasttime
+How much salary {google|company} give
+How much salary did {google|company} give
+{google|company} gives
+How much salary did {wipro|company} give lasttime
+{wipro|company} gave a salary of

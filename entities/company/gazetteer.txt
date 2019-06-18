@@ -1,0 +1,9 @@
+google
+wipro
+oracle
+deshaw
+tcs
+mathworks
+servicenow
+jpmorgan
+

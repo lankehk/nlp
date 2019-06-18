@@ -1,0 +1,27 @@
+[
+	{       "id":"1",
+		"company_name": "Google",
+		"year": "2012",
+		"salary":"50lpa"
+	},
+
+	{       "id":"2",
+		"company_name": "deshaw",
+		"year": "2017",
+		"salary":"29lpa"
+	},
+
+	{       "id":"3",
+                "company_name": "oracle",
+                "year": "2018",
+                "salary":"9lpa"
+        },
+
+	{       "id":"4",
+                "company_name": "wipro",
+                "year": "2019",
+                "salary":"7lpa"
+        }
+
+
+]

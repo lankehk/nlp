@@ -1,0 +1,8 @@
+How much salary {google|company} give
+How much salary did {google|company} give
+{google|wipro|deshaw|oracle|company} gives
+How much salary did {google|company} give lasttime
+How much salary {google|company} give
+How much salary did {google|company} give
+{google|company} gives
+How much salary did {google|company} give lasttime

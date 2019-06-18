@@ -1,0 +1,30 @@
+{
+  "entities":[
+      {
+	      "whitelist":["gogle","GOOG","GOOGEL","googel","googel","goog"],
+	      "cname":"google",
+	      "id":"11"
+        
+      },
+      {
+           "whitelist":["wepro","weepro","wipr"],
+	   "cname":"wipro",
+	   "id":"12"
+
+      },
+      {
+
+	      "whitelist":["orcle", "urcle", "oracl"],
+	      "cname":"oracle",
+	      "id":"13"
+      },
+      {
+		"whitelist":["de-shaw","de shaw", "dshaw", "d shaw", "the shaw", "desha", "dsha"],
+		"cname":"deshaw",
+		"id":"14"
+      }
+
+    ]
+
+
+}
